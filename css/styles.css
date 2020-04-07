@@ -29,6 +29,7 @@ hr {
 .Skills{
   background-color: #fff;
   margin-top: 100px;
+  padding-bottom: 60px;
 }
 
 .skilltitle{
@@ -37,6 +38,68 @@ hr {
   padding-top: 60px;
 
 }
+
+.exptitle{
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+  padding-bottom: 50px;
+
+}
+
+#Experience{
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+
+
+.testimonial-text {
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+.testimonial-image {
+  width: 20%;
+  margin: 1px;
+  border-radius: 100%;
+}
+
+.testimonial-image2{
+  width: 10%;
+  margin: 1px;
+  border-radius: 100%;
+  margin-top: 60px;
+  margin-bottom: 50px;
+
+}
+
+.msptext{
+  color: #ffffff;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .row{
   margin-right: 0;
@@ -104,7 +167,7 @@ hr {
 
 @keyframes html {
     to {
-        width: 90%;
+        width: 50%;
     }
 }
 
@@ -114,7 +177,7 @@ hr {
 
 @keyframes css {
     to {
-        width: 80%;
+        width: 90%;
     }
 }
 
@@ -124,7 +187,7 @@ hr {
 
 @keyframes js {
     to {
-        width: 75%;
+        width: 50%;
     }
 }
 
