@@ -78,7 +78,15 @@ hr {
 
 }
 
+.navbar-brand{
+  font-size: 30px !important;
+}
 
+.navimage{
+  width: 6% !important;
+  height:  6% !important;
+  margin-right: 6px;
+}
 
 
 
